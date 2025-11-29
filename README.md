@@ -35,7 +35,7 @@ I am currently pursuing an Associate Degree in AI Software Engineering, combinin
 ---
 
 ### 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?FarinaCoder&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=FarinaCoder&show_icons=true&theme=radical)
 
 ---
 
