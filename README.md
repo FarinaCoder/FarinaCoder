@@ -23,12 +23,12 @@ I am currently pursuing an Associate Degree in AI Software Engineering, combinin
 
 ### 📂 Featured Projects
 **1. Titanic Survival Predictor (Binary Classification)**
-* *In Progress*
+* *Complete*
 * A machine learning model that predicts passenger survival rates based on socio-economic status, age, and gender.
 * **Tech Stack:** Python, Pandas, Scikit-Learn.
 
 **2. Spam vs. Ham Email Filter (NLP)**
-* *Planned*
+* *Complete*
 * A Natural Language Processing tool that classifies emails to filter out spam with [X]% accuracy.
 * **Tech Stack:** Python, NLTK.
 
