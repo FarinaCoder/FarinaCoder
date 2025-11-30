@@ -41,3 +41,5 @@ I am currently pursuing an Associate Degree in AI Software Engineering, combinin
 
 ### 📫 Connect with Me
 * [Email](mailto:sonja_powell95@yahoo.com)
+  
+* [LinkedIn](https://www.linkedin.com/in/farina-powell-8959b8329?utm_source=share_via&utm_content=profile&utm_medium=member_android)
