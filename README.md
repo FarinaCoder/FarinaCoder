@@ -32,7 +32,10 @@ I am currently pursuing an Associate Degree in AI Software Engineering, combinin
 * A Natural Language Processing tool that classifies emails to filter out spam with [X]% accuracy.
 * **Tech Stack:** Python, NLTK.
 
----
+** Study Buddy Quiz Generator
+* *Complete*
+* A Python app that uses AI to generate quiz questions on any topic. Built as my first AI-powered project while studying for my AAS in AI Software Engineering.
+* **Tech Stack:** Python, Groq API, LLaMA 3.3 70B model
 
 ### 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=FarinaCoder&show_icons=true&theme=radical)
